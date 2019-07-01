@@ -8,7 +8,7 @@
         <div class="col-sm-6" style="margin:auto;">
 
             <div class="form-group">
-                <label class="control-label">Month</label>
+                <label class="control-label">महीना<br>Month</label>
                 <select class="form-control" name="month">
                     <option value="january">January</option>
                     <option value="february">February</option>
@@ -25,126 +25,125 @@
                 </select>
             </div>
 
-            <h1 class="text-center">Personal Information</h1>
+            <h1 class="text-center"><br>व्यक्तिगत जानकारी<br>Personal Information</h1>
             <div>
                 <table>
                     <tr>
-                        <td>Type</td>
+                        <td><br>प्रकार<br>Type</td>
                         <td>
                             <input type="text" name="type" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>S.No.</td>
+                        <td><br>क्र. संख्या<br>S.No.</td>
                         <td>
                             <input type="number" name="sno" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Designation</td>
+                           <td><br>पद<br>Designation</td>
                         <td>
                             <input type="text" name="designation" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Account No.</td>
+                        <td><br>खाता क्रमांक<br>Account No.</td>
                         <td>
                             <input type="text" name="acc_no" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Name</td>
+                        <td><br>नाम<br>Name</td>
                         <td>
                             <input type="text" name="name" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Date Of Birth</td>
+                        <td><br>जन्म की तारीख<br>Date Of Birth</td>
                         <td>
                             <input type="date" name="birth_date" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Co-operative A/C</td>
+                        <td><br>सहकारी खाता<br>Co-operative A/C</td>
                         <td>
                             <input type="text" name="cooperative" class="form-control" />
                         </td>
                     </tr>
                     <tr>
-                        <td>Total Amount</td>
+                        <td><br>कुल रकम<br>Total Amount</td>
                         <td>
                             <input type="text" name="total" class="form-control" />
                         </td>
                     </tr>
                 </table>
             </div>
-
-            <h1 class="text-center">Local Recovery</h1>
+            <h1 class="text-center"><br>स्थानीय वसूली<br>Local Recovery</h1>
             <div>
                 <table>
                     <tr>
-                        <td>Society Co-Operate A/C</td>
+                        <td><br>सोसाइटी सह खाता<br>Society Co-Operate A/C</td>
                         <td>
                             <input type="text" name="society_acc" class="form-control" />
                         </td>
                     </tr>
                     <tr>
                         <tr>
-                            <td>Officer Club</td>
+                            <td><br>अधिकारी क्लब<br>Officer Club</td>
                             <td>
                                 <input type="text" name="officer_club" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>Party</td>
+                            <td><br>पार्टी<br>Party</td>
                             <td>
                                 <input type="text" name="party" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>LIC</td>
+                            <td><br>एलआईसी<br>LIC</td>
                             <td>
                                 <input type="text" name="lic" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>Miscellaneous</td>
+                            <td><br>कई तरह का<br>Miscellaneous</td>
                             <td>
                                 <input type="text" name="misc" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>CA</td>
+                            <td><br>सीए<br>CA</td>
                             <td>
                                 <input type="text" name="ca" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>SA</td>
+                            <td><br>एसए<br>SA</td>
                             <td>
                                 <input type="text" name="sa" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>W_L</td>
+                            <td><br>डब्ल्यू एल<br>W_L</td>
                             <td>
                                 <input type="text" name="wl" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>W_S</td>
+                            <td><br>डब्ल्यू एस<br>W_S</td>
                             <td>
                                 <input type="text" name="ws" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>NSS</td>
+                            <td><br>एनएसएस<br>NSS</td>
                             <td>
                                 <input type="text" name="nss" class="form-control" />
                             </td>
                         </tr>
                         <tr>
-                            <td>Net Amount</td>
+                            <td><br>शुद्ध राशि<br>Net Amount</td>
                             <td>
                                 <input type="text" name="net_amount" class="form-control" />
                             </td>
